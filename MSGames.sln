@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IWUs", "IWUs\IWUs.csproj", "{C136A1C4-27DB-4411-A28F-34F3FDEE5469}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IWCa", "..\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\IWCa\IWCa.csproj", "{8C5EDBA7-9F63-4979-8EF9-F9A473A654DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IWDe", "..\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\IWDe\IWDe.csproj", "{87FE2285-ECFF-4DF7-A12E-DABA5EAC0D94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IWUk", "..\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\IWUk\IWUk.csproj", "{11F557B3-6C0A-45CC-B8BD-A4BFF98040E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IWFr", "..\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\IWFr\IWFr.csproj", "{851E8EBB-B67E-4385-B72E-9DEBDD67A590}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "common", "..\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\common\common.csproj", "{A3ED8534-119F-488D-B14E-B3605B7829C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "common2", "..\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\common2\common2.csproj", "{E0AF9447-BF2E-4C64-91AB-D87AC303211C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C136A1C4-27DB-4411-A28F-34F3FDEE5469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C136A1C4-27DB-4411-A28F-34F3FDEE5469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C136A1C4-27DB-4411-A28F-34F3FDEE5469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C136A1C4-27DB-4411-A28F-34F3FDEE5469}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C5EDBA7-9F63-4979-8EF9-F9A473A654DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C5EDBA7-9F63-4979-8EF9-F9A473A654DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C5EDBA7-9F63-4979-8EF9-F9A473A654DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C5EDBA7-9F63-4979-8EF9-F9A473A654DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87FE2285-ECFF-4DF7-A12E-DABA5EAC0D94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87FE2285-ECFF-4DF7-A12E-DABA5EAC0D94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87FE2285-ECFF-4DF7-A12E-DABA5EAC0D94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87FE2285-ECFF-4DF7-A12E-DABA5EAC0D94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11F557B3-6C0A-45CC-B8BD-A4BFF98040E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11F557B3-6C0A-45CC-B8BD-A4BFF98040E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11F557B3-6C0A-45CC-B8BD-A4BFF98040E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11F557B3-6C0A-45CC-B8BD-A4BFF98040E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{851E8EBB-B67E-4385-B72E-9DEBDD67A590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{851E8EBB-B67E-4385-B72E-9DEBDD67A590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{851E8EBB-B67E-4385-B72E-9DEBDD67A590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{851E8EBB-B67E-4385-B72E-9DEBDD67A590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3ED8534-119F-488D-B14E-B3605B7829C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3ED8534-119F-488D-B14E-B3605B7829C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3ED8534-119F-488D-B14E-B3605B7829C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3ED8534-119F-488D-B14E-B3605B7829C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0AF9447-BF2E-4C64-91AB-D87AC303211C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0AF9447-BF2E-4C64-91AB-D87AC303211C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0AF9447-BF2E-4C64-91AB-D87AC303211C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0AF9447-BF2E-4C64-91AB-D87AC303211C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50970139-371D-44FE-BA64-7645A7E3DC35}
+	EndGlobalSection
+EndGlobal
